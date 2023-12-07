@@ -1,5 +1,5 @@
 ### About Me
-Hello there! My name is Rish Naik, and I am in my final year of IT Innovation & Design at Conestoga College. I also graduated from Business at Conestoga College in 2020. I have experience in Microsoft Office tools such as Word, Excel, PowerPoint, and Access. I have also learned various programming languages such as C#, HTML/CSS, JavaScript, ASP.NET MVC, Java, Python, and VBA. I also have experience using Adobe Creative Cloud, animation software such as Blender, and statistical tools such as PowerBI and Tableau. 👋
+Hello there! My name is Rish Naik, and I am in my final year of IT Innovation & Design at Conestoga College. I also graduated from Business at Conestoga College in 2020. I have experience in Microsoft Office tools such as Word, Excel, PowerPoint, and Access. I have also learned various programming languages such as C#, HTML/CSS, JavaScript, ASP.NET MVC, Java, Python, and VBA. I also have experience using Adobe Creative Cloud, animation software such as Blender, and data visualization tools such as PowerBI and Tableau. 👋
 
 <!--
 **RishDog001/RishDog001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
