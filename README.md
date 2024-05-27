@@ -1,5 +1,5 @@
 ### About Me
-Hello, my name is Rish Naik. I am 24 years old and a final-year Computer Science/IT student at Conestoga College. I have experience in Microsoft Office tools such as Word, Excel, PowerPoint, and Access. I have also learned programming languages such as C#, HTML/CSS, JavaScript, ASP.NET MVC, Java (including Android development), Python, and VBA. I also have experience using Adobe Creative Cloud, animation software like Blender, and data visualization tools like PowerBI and Tableau. 👋
+Hello, my name is Rish Naik. I am 24 years old and a recent Computer Science/IT graduate from Conestoga College. I have experience in Microsoft Office tools such as Word, Excel, PowerPoint, and Access. I have also learned programming languages such as C#, HTML/CSS, JavaScript, ASP.NET MVC, Java (including Android development), Python, and VBA. I also have experience using Adobe Creative Cloud, animation software like Blender, and data visualization tools like PowerBI and Tableau. I am looking for a full-time job and am willing to start immediately.👋
 
 <!--
 **RishDog001/RishDog001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
