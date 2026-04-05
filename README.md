@@ -1,5 +1,11 @@
 ### About Me
-Hello, my name is Rish Naik. I am a results-driven IT professional with a strong background in software development and data analysis. I am adept at troubleshooting and resolving software issues to ensure the stability and performance of products. I've demonstrated strong communication skills and a collaborative work approach, complemented by a comprehensive understanding of business concepts, including marketing and sales, as well as project management. 👋
+Hello, my name is Rish Naik. I'm a software developer who enjoys solving problems that sit at the intersection of data and usability — whether that's building a mobile app for field researchers, automating a workflow that saves hours of manual work, or wiring up a back end that actually holds up under real conditions. 
+
+Currently at the Centre for Biodiversity Genomics, I've developed an Android app for use by field researchers to collect specimen metadata via QR scanning, including a back end admin portal (Node.js/Express + PostgreSQL) for database  storage, and written Python pipelines that cut manual data handling time by 40%. I also built geographic visualizations using NumPy and Matplotlib to help data scientists and managers make sense of complex biodiversity datasets.
+
+Before that, I worked in VR simulation software — debugging Unity/C# performance issues, integrating analytics, and running Agile sprints that improved task completion rates by 50%.
+
+My background sits comfortably across back end, front end, mobile app development, and data analysis. I have experience in C#, Python, Android (Java), JavaScript (express, Node.js), and SQL/PostgreSQL, and I have the ability to learn new stacks quickly the more I use them to solve complex problems.👋
 
 <!--
 **RishDog001/RishDog001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
